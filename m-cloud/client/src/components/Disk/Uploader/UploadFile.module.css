@@ -1,0 +1,20 @@
+.upload_file__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.upload_file__progress {
+    background: blue;
+    height: 1rem;
+    display: flex;
+}
+
+.upload_file__upload_bar {
+    background: green;
+    width: 0;
+}
+
+.upload_file__percent {
+    position: absolute;
+    left: 50%;
+}

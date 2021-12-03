@@ -1,0 +1,7 @@
+.file:hover .btn {
+    display: block;
+}
+
+.btn {
+    display: none;
+}
