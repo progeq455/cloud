@@ -1,7 +1,7 @@
 {
     "serverPort": 5000,
-    "DBURL": "mongodb+srv://mongoDB:12345!@cluster0.0apii.mongodb.net/mongoDB?authSource=admin&replicaSet=atlas-zevsxd-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
-    "secretKey": "secret-key",
-    "filePath": "C:\\Code\\Projects\\m-cloud\\server\\files",
-    "staticPath": "C:\\Code\\Projects\\m-cloud\\server\\static"
+    "DBURL": "",
+    "secretKey": "",
+    "filePath": "",
+    "staticPath": ""
 }
